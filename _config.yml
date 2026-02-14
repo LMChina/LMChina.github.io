@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Personal website # the website title (if blank, full name will be used instead)
+title:  Mao Li (李茂） # the website title (if blank, full name will be used instead)
 first_name: Mao
 middle_name: 
 last_name: Li
@@ -279,8 +279,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Li, LI]
+  first_name: [Mao]
 
   style: apa
   locale: en
