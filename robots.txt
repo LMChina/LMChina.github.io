@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://LMChina.github.io/al-folio/sitemap.xml
+Sitemap: https://lmchina.github.io/al-folio/sitemap.xml
