@@ -28,8 +28,6 @@ pet_images: [{ src: /assets/img/laifu.jpeg, date: "2026-02-01" }, { src: /assets
 	</div>
 </div>
 
-<p class="mt-3"><strong>How to add more photos:</strong> edit the <code>pet_images</code> list in this page frontmatter and add more image paths under <code>/assets/img/</code>.</p>
-
 <script>
 	document.addEventListener("DOMContentLoaded", function () {
 		const rawImages = {{ page.pet_images | jsonify }};
