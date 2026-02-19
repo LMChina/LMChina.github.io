@@ -4,7 +4,7 @@ layout: default
 {% comment %}
   Unified CV layout that handles both RenderCV (YAML) and JSONResume (JSON) formats
   - If page.cv_format is set, it determines which format to render:
-    - 'rendercv': Load and render only RenderCV data (site.data.cv.cv)
+    - 'rendercv': Load and render only RenderCV data (site.data[page.cv_data].cv, default key: cv)
     - 'jsonresume': Load and render only JSONResume data (site.data.resume)
   - If page.cv_format is not set, the legacy behavior applies:
     - RenderCV data is in site.data.cv.cv
@@ -35,6 +35,11 @@ layout: default
     {% if page.description %}
       <p class="post-description">{{ page.description }}</p>
     {% endif %}
+    {% if page.lang_switch_url and page.lang_switch_label %}
+      <p class="post-description">
+        <a href="{{ page.lang_switch_url | relative_url }}">{{ page.lang_switch_label }}</a>
+      </p>
+    {% endif %}
   </header>
 
   <article>
@@ -42,6 +47,8 @@ layout: default
       {% comment %} Determine which CV format to render {% endcomment %}
       {% assign render_rendercv = false %}
       {% assign render_jsonresume = false %}
+      {% assign rendercv_data_key = page.cv_data | default: 'cv' %}
+      {% assign rendercv_data = site.data[rendercv_data_key] %}
 
       {% if page.cv_format == 'rendercv' %}
         {% assign render_rendercv = true %}
@@ -56,9 +63,9 @@ layout: default
         {% endif %}
       {% endif %}
 
-      {% if render_rendercv and site.data.cv and site.data.cv.cv %}
+      {% if render_rendercv and rendercv_data and rendercv_data.cv %}
         {% comment %} RenderCV format {% endcomment %}
-        {% assign cv = site.data.cv.cv %}
+        {% assign cv = rendercv_data.cv %}
 
         <!-- Header/Contact Information -->
         {% if cv.name or cv.label or cv.location or cv.email or cv.phone or cv.website %}

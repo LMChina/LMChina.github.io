@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New Paper Accepted by </em> Computer-Aided Civil and Infrastructure Engineering </em> (CACAIE)
+title: New Paper Accepted by Computer-Aided Civil and Infrastructure Engineering (CACAIE)!
 date: 2026-1-23 16:11:00-0400
 inline: false
 related_posts: false

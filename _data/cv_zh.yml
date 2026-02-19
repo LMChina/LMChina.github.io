@@ -1,0 +1,93 @@
+cv:
+  name: 李茂
+  label: 结构工程在读博士研究生
+  email: mao13@ualberta.ca
+  phone: +1 825-888-0421
+  location: 加拿大阿尔伯塔大学
+  image: ""
+
+  address:
+    street: 6-362 Donadeo Innovation Centre for Engineering, 9211-116 St.
+    city: Edmonton
+    region: AB
+    postalCode: T6G 1H9
+    countryCode: CA
+
+  sections:
+    Education:
+      - institution: 阿尔伯塔大学
+        location: 加拿大，埃德蒙顿
+        area: 结构工程
+        studyType: 博士（Ph.D.）
+        start_date: 2023
+        end_date: 至今
+        GPA: 4.0/4.0
+        highlights:
+          - "导师：Yong Li 教授"
+          - "博士论文：基于机器学习和性能的的考虑填充墙/隔墙的钢框架建筑的概率抗震设计"
+
+      - institution: 青岛理工大学
+        location: 中国，青岛
+        area: 土木工程
+        studyType: 工学 硕士（M.Sc.）
+        start_date: 2017
+        end_date: 2020
+        highlights:
+          - "导师：付伟庆 教授"
+          - "[硕士论文：被动变阻尼装置的设计、试验机器风振控制分析](/assets/pdf/msc_thesis.pdf)"
+
+      - institution: 山东科技大学
+        location: 中国，青岛
+        area: 土木工程
+        studyType: 工学 学士（B.Sc.）
+        start_date: 2013
+        end_date: 2017
+
+    Experience:
+      - company: 青岛理工大学
+        position: 研究助理
+        location: 中国，青岛市
+        start_date: 2020
+        end_date: 2023
+
+      - company: 悉尼科技大学
+        position: 访问学生
+        location: 澳大利亚，悉尼
+        start_date: 2019
+        end_date: 2019
+        highlights:
+          - "导师：Jianchun Li 教授、Yancheng Li 教授"
+
+    Honors and Awards:
+      - title: Alberta Innovates Graduate Student Scholarships
+        date: 2025
+
+      - title: Alberta Graduate Excellence Scholarships
+        date: 2025
+
+      - title: Masonry Contractors Association of Alberta-Northern Region Graduate Scholarship in Civil Engineering
+        date: 2025
+
+      - title: Dr. David Murray Graduate Scholarship in Civil Engineering
+        date: 2025
+
+      - title: 中国国家留学基金委奖学金
+        date: 2020
+
+      - title: 山东省优秀硕士论文
+        date: 2021
+
+      - title: 青岛理工大学优秀硕士论文
+        date: 2021
+
+      - title: 青岛理工大学国际访问学生奖学金
+        date: 2019
+
+      - title: 亚太欧智能结构技术暑期学校二等奖
+        date: 2019
+
+      - title: 亚太欧智能结构技术暑期学校一等奖
+        date: 2018
+
+      - title: 山东省优秀本科毕业论文
+        date: 2018
