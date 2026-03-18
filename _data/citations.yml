@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-03-13'
+  last_updated: '2026-03-18'
 papers:
   EdCSCzYAAAAJ:3fE2CSJIrl8C:
     citations: 5
     title: Surrogate-based calibration and prediction of hysteretic model parameters for steel beam-column bolted T-stub connections
     year: '2025'
   EdCSCzYAAAAJ:5nxA0vEk-isC:
-    citations: 12
+    citations: 13
     title: Performance test and finite element modeling of variable damping viscous damper
     year: '2024'
   EdCSCzYAAAAJ:8k81kl-MbHgC:
@@ -22,13 +22,17 @@ papers:
     title: Probabilistic performance evaluation of steel moment resisting frame with masonry infill walls
     year: '2025'
   EdCSCzYAAAAJ:MXK_kJrjxJIC:
-    citations: 4
+    citations: 5
     title: A variable damping viscous damper for control of buildings under wind loading
     year: '2024'
   EdCSCzYAAAAJ:Zph67rFs4hoC:
     citations: 1
     title: Seismic performance evaluation of isolated liquid storage tanks with passive variable damping and stiffness devices
     year: '2025'
+  EdCSCzYAAAAJ:_kc_bZDykSQC:
+    citations: 0
+    title: Physics-informed Temporal Convolutional Network with Bidirectional Gated Recurrent Unit developed for rapid prediction of seismic response time-histories of building structures
+    year: '2026'
   EdCSCzYAAAAJ:d1gkVwhDpl0C:
     citations: 29
     title: Experimental investigation on semi-active control of base isolation system using magnetorheological dampers for concrete frame structure
