@@ -417,6 +417,16 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_1/";
+            },},{id: "news-presentation-at-csce-2026-on-ml-based-seismic-demand-analysis",
+          title: 'Presentation at CSCE 2026 on ML-Based Seismic Demand Analysis',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-06-05-csce-presentation/";
+            },},{id: "news-passed-my-phd-candidacy-exam",
+          title: 'Passed My PhD Candidacy Exam 🎊',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-06-29-candidacy-exam/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
