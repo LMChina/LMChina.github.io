@@ -26,7 +26,7 @@ latest_posts:
 ---
 
 <p style="text-align: justify;">
-Welcome to my personal website! I am Mao Li, a Ph.D. student in Structural Engineering at the University of Alberta, where I am a part of the <a href="https://sites.google.com/ualberta.ca/smra-yongli">Structural Modeling and Reliability Analysis (SM&amp;RA) Research Group</a> led by <a href="https://apps.ualberta.ca/directory/person/yong9">Dr. Yong Li</a>. My work bridges the gap between traditional structural mechanics, artificial intelligence, and advanced control systems. Ultimately, my research aims to enhance the safety, resilience, and computational efficiency of our built environment against dynamic hazards.
+Welcome to my personal website! I am Mao Li, a Ph.D. candidate in Structural Engineering at the University of Alberta, where I am a part of the <a href="https://sites.google.com/ualberta.ca/smra-yongli">Structural Modeling and Reliability Analysis (SM&amp;RA) Research Group</a> led by <a href="https://apps.ualberta.ca/directory/person/yong9">Dr. Yong Li</a>. My work bridges the gap between traditional structural mechanics, artificial intelligence, and advanced control systems. Ultimately, my research aims to enhance the safety, resilience, and computational efficiency of our built environment against dynamic hazards.
 </p>
 
 **My research interests:**
@@ -37,4 +37,3 @@ Welcome to my personal website! I am Mao Li, a Ph.D. student in Structural Engin
 - **Vibration Mitigation Applications:** Assessing the performance of control devices across diverse complex structures, including wind-induced vibration control for high-rise buildings, seismic protection for isolated liquid storage tanks, and anti-sway control for overhead cranes utilizing hook-integrated MR dampers.
 - **Advanced Finite Element Modeling:** Conducting detailed, high-fidelity finite element analysis to evaluate the localized behavior and mechanics of structural components, such as steel beam-column connections.
 - **Underground Infrastructure Resilience:** Conducting mechanical performance testing on utility tunnel connections and evaluating the comprehensive seismic performance of underground utility tunnel systems.
-
