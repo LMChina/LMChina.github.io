@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-07'
+  last_updated: '2026-08-08'
 papers:
   EdCSCzYAAAAJ:3fE2CSJIrl8C:
     citations: 6
@@ -36,4 +36,40 @@ papers:
   EdCSCzYAAAAJ:d1gkVwhDpl0C:
     citations: 29
     title: Experimental investigation on semi-active control of base isolation system using magnetorheological dampers for concrete frame structure
+    year: '2019'
+  EdCSCzYAAAAJ:Wp0gIr-vW9MC:
+    citations: 2
+    title: 预制沟道缆线管廊接头受力性能研究
+    year: '2023'
+  EdCSCzYAAAAJ:QIV2ME_5wuYC:
+    citations: 0
+    title: PVDD 装置多参数性能试验与隔震新体系控制分析
+    year: '2023'
+  EdCSCzYAAAAJ:aqlVkmm33-oC:
+    citations: 1
+    title: 多舱组合预制拼装预应力地下综合管廊地震响应分析研究
+    year: '2022'
+  EdCSCzYAAAAJ:7PzlFSSx8tAC:
+    citations: 0
+    title: PVDD 装置隔震新体系设计方法与应用研究
+    year: '2021'
+  EdCSCzYAAAAJ:ZeXyd9-uunAC:
+    citations: 0
+    title: 多舱组合预制拼装预应力地下综合管廊有限元分析
+    year: '2021'
+  EdCSCzYAAAAJ:9ZlFYXVOiuMC:
+    citations: 3
+    title: 多阶梯被动变阻尼装置设计, 试验及结构风振控制分析
+    year: '2020'
+  EdCSCzYAAAAJ:L8Ckcad2t8MC:
+    citations: 4
+    title: 被动变阻尼耗能装置的设计与性能试验研究
+    year: '2020'
+  EdCSCzYAAAAJ:4DMP91E08xMC:
+    citations: 0
+    title: 多阶梯被动变阻尼装置高层建筑风振控制性能化设计方法
+    year: '2021'
+  EdCSCzYAAAAJ:mVmsd5A6BfQC:
+    citations: 3
+    title: 基于被动变阻尼装置高层结构风振控制效果对比分析
     year: '2019'
