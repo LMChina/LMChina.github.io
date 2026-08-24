@@ -1,18 +1,30 @@
 metadata:
-  last_updated: '2026-08-08'
+  last_updated: '2026-08-24'
 papers:
   EdCSCzYAAAAJ:3fE2CSJIrl8C:
     citations: 6
     title: Surrogate-based calibration and prediction of hysteretic model parameters for steel beam-column bolted T-stub connections
     year: '2025'
+  EdCSCzYAAAAJ:4DMP91E08xMC:
+    citations: 0
+    title: "\u591A\u9636\u68AF\u88AB\u52A8\u53D8\u963B\u5C3C\u88C5\u7F6E\u9AD8\u5C42\u5EFA\u7B51\u98CE\u632F\u63A7\u5236\u6027\u80FD\u5316\u8BBE\u8BA1\u65B9\u6CD5"
+    year: '2021'
   EdCSCzYAAAAJ:5nxA0vEk-isC:
     citations: 16
     title: Performance test and finite element modeling of variable damping viscous damper
     year: '2024'
+  EdCSCzYAAAAJ:7PzlFSSx8tAC:
+    citations: 0
+    title: "PVDD \u88C5\u7F6E\u9694\u9707\u65B0\u4F53\u7CFB\u8BBE\u8BA1\u65B9\u6CD5\u4E0E\u5E94\u7528\u7814\u7A76"
+    year: '2021'
   EdCSCzYAAAAJ:8k81kl-MbHgC:
     citations: 3
     title: 'Bayesian optimization-based Model-Agnostic Meta-Learning: Application to predict maximum cyclic moment resistance of steel bolted T-stub connections'
     year: '2024'
+  EdCSCzYAAAAJ:9ZlFYXVOiuMC:
+    citations: 3
+    title: "\u591A\u9636\u68AF\u88AB\u52A8\u53D8\u963B\u5C3C\u88C5\u7F6E\u8BBE\u8BA1, \u8BD5\u9A8C\u53CA\u7ED3\u6784\u98CE\u632F\u63A7\u5236\u5206\u6790"
+    year: '2020'
   EdCSCzYAAAAJ:9yKSN-GCB0IC:
     citations: 7
     title: A reliable cyclic envelope model for partially-restrained steel beam-column bolted T-stub connections based on experimental data
@@ -21,55 +33,47 @@ papers:
     citations: 0
     title: Probabilistic performance evaluation of steel moment resisting frame with masonry infill walls
     year: '2025'
+  EdCSCzYAAAAJ:L8Ckcad2t8MC:
+    citations: 4
+    title: "\u88AB\u52A8\u53D8\u963B\u5C3C\u8017\u80FD\u88C5\u7F6E\u7684\u8BBE\u8BA1\u4E0E\u6027\u80FD\u8BD5\u9A8C\u7814\u7A76"
+    year: '2020'
   EdCSCzYAAAAJ:MXK_kJrjxJIC:
-    citations: 9
+    citations: 10
     title: A variable damping viscous damper for control of buildings under wind loading
     year: '2024'
+  EdCSCzYAAAAJ:QIV2ME_5wuYC:
+    citations: 0
+    title: "PVDD \u88C5\u7F6E\u591A\u53C2\u6570\u6027\u80FD\u8BD5\u9A8C\u4E0E\u9694\u9707\u65B0\u4F53\u7CFB\u63A7\u5236\u5206\u6790"
+    year: '2023'
+  EdCSCzYAAAAJ:Wp0gIr-vW9MC:
+    citations: 2
+    title: "\u9884\u5236\u6C9F\u9053\u7F06\u7EBF\u7BA1\u5ECA\u63A5\u5934\u53D7\u529B\u6027\u80FD\u7814\u7A76"
+    year: '2023'
+  EdCSCzYAAAAJ:ZeXyd9-uunAC:
+    citations: 0
+    title: "\u591A\u8231\u7EC4\u5408\u9884\u5236\u62FC\u88C5\u9884\u5E94\u529B\u5730\u4E0B\u7EFC\u5408\u7BA1\u5ECA\u6709\u9650\u5143\u5206\u6790"
+    year: '2021'
   EdCSCzYAAAAJ:Zph67rFs4hoC:
     citations: 2
     title: Seismic performance evaluation of isolated liquid storage tanks with passive variable damping and stiffness devices
     year: '2025'
   EdCSCzYAAAAJ:_kc_bZDykSQC:
-    citations: 0
+    citations: 1
     title: Physics-informed Temporal Convolutional Network with Bidirectional Gated Recurrent Unit developed for rapid prediction of seismic response time-histories of building structures
     year: '2026'
-  EdCSCzYAAAAJ:d1gkVwhDpl0C:
-    citations: 29
-    title: Experimental investigation on semi-active control of base isolation system using magnetorheological dampers for concrete frame structure
-    year: '2019'
-  EdCSCzYAAAAJ:Wp0gIr-vW9MC:
-    citations: 2
-    title: 预制沟道缆线管廊接头受力性能研究
-    year: '2023'
-  EdCSCzYAAAAJ:QIV2ME_5wuYC:
-    citations: 0
-    title: PVDD 装置多参数性能试验与隔震新体系控制分析
-    year: '2023'
   EdCSCzYAAAAJ:aqlVkmm33-oC:
     citations: 1
-    title: 多舱组合预制拼装预应力地下综合管廊地震响应分析研究
+    title: "\u591A\u8231\u7EC4\u5408\u9884\u5236\u62FC\u88C5\u9884\u5E94\u529B\u5730\u4E0B\u7EFC\u5408\u7BA1\u5ECA \u5730\u9707\u54CD\u5E94\u5206\u6790\u7814\u7A76."
     year: '2022'
-  EdCSCzYAAAAJ:7PzlFSSx8tAC:
+  EdCSCzYAAAAJ:d1gkVwhDpl0C:
+    citations: 31
+    title: Experimental investigation on semi-active control of base isolation system using magnetorheological dampers for concrete frame structure
+    year: '2019'
+  EdCSCzYAAAAJ:dhFuZR0502QC:
     citations: 0
-    title: PVDD 装置隔震新体系设计方法与应用研究
-    year: '2021'
-  EdCSCzYAAAAJ:ZeXyd9-uunAC:
-    citations: 0
-    title: 多舱组合预制拼装预应力地下综合管廊有限元分析
-    year: '2021'
-  EdCSCzYAAAAJ:9ZlFYXVOiuMC:
-    citations: 3
-    title: 多阶梯被动变阻尼装置设计, 试验及结构风振控制分析
-    year: '2020'
-  EdCSCzYAAAAJ:L8Ckcad2t8MC:
-    citations: 4
-    title: 被动变阻尼耗能装置的设计与性能试验研究
-    year: '2020'
-  EdCSCzYAAAAJ:4DMP91E08xMC:
-    citations: 0
-    title: 多阶梯被动变阻尼装置高层建筑风振控制性能化设计方法
-    year: '2021'
+    title: "\u8D85\u9AD8\u6027\u80FD\u6DF7\u51DD\u571F\u63D0\u5347\u9884\u5236\u6C9F\u9053\u7BA1\u5ECA \u63A5\u5934\u529B\u5B66\u6027\u80FD\u7814\u7A76."
+    year: '2025'
   EdCSCzYAAAAJ:mVmsd5A6BfQC:
     citations: 3
-    title: 基于被动变阻尼装置高层结构风振控制效果对比分析
+    title: "\u57FA\u4E8E\u88AB\u52A8\u53D8\u963B\u5C3C\u88C5\u7F6E\u9AD8\u5C42\u7ED3\u6784\u98CE\u632F\u63A7\u5236\u6548\u679C\u5BF9\u6BD4\u5206\u6790"
     year: '2019'
